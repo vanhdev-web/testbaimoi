@@ -8,3 +8,17 @@ C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.
 C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.CoreCompileInputs.cache
 C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.exe
 C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.pdb
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\storeProcedure.exe.config
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\storeProcedure.exe
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\storeProcedure.pdb
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.AssemblyReference.cache
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.Form1.resources
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.Properties.Resources.resources
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.GenerateResource.cache
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.CoreCompileInputs.cache
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.exe
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\obj\Debug\storeProcedure.pdb
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\QLBH.mdf
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\QLBH_log.ldf
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\QuanLyNhaHang.mdf
+C:\Users\dovie\OneDrive\Documents\testbaimoi\storeProcedure\storeProcedure\bin\Debug\QuanLyNhaHang_1.ldf

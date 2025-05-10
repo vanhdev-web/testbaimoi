@@ -13,7 +13,8 @@ namespace storeProcedure
 {
     public partial class Form1 : Form
     {
-        string strcon = "Data Source=LAPTOP-ECL79PA1\\MSSQLSERVER01;Initial Catalog=Quanlybanhang;Integrated Security=True;TrustServerCertificate=True";
+        string strcon = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\dovie\\OneDrive\\Documents\\testbaimoi\\storeProcedure\\storeProcedure\\QLBH.mdf;Integrated Security=True";
+
         SqlConnection sqlcon = null;
         public Form1()
         {
@@ -33,8 +34,8 @@ namespace storeProcedure
             }
 
             SqlCommand sqlCommand = new SqlCommand();
-            sqlCommand.CommandType  = CommandType.StoredProcedure;
-            sqlCommand.CommandText = "hienThiDanhSachPhieuNhap";
+            sqlCommand.CommandType  = CommandType.Text;
+            sqlCommand.CommandText = "select * from PNHAP";
 
             sqlCommand.Connection = sqlcon;
             SqlDataReader reader = sqlCommand.ExecuteReader();
@@ -76,7 +77,7 @@ namespace storeProcedure
 
             SqlCommand sqlCommand = new SqlCommand();
             sqlCommand.CommandType = CommandType.StoredProcedure;
-            sqlCommand.CommandText = "hienThiChiTietPhieuNhap";
+            sqlCommand.CommandText = "hienThiPhieuNhap";
 
             SqlParameter para = new SqlParameter("@MaPN", SqlDbType.Char);
             para.Value = soPN;
