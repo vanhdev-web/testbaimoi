@@ -1,0 +1,10 @@
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\bin\Debug\storeProcedure.exe.config
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\bin\Debug\storeProcedure.exe
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\bin\Debug\storeProcedure.pdb
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.AssemblyReference.cache
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.Form1.resources
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.Properties.Resources.resources
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.GenerateResource.cache
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.csproj.CoreCompileInputs.cache
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.exe
+C:\Users\dovie\Downloads\storeProcedure\storeProcedure\obj\Debug\storeProcedure.pdb
